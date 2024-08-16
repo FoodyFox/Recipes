@@ -15,7 +15,7 @@ Ingredients:
     800g 00 Bread Flour
     480g Tepid Water
     16g Salt
-    10g Fast Dried Yeast or 1g Fresh Yeast
+    8g Fast Dried Yeast or 1g Fresh Yeast
 
 Method:
 
