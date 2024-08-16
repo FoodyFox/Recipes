@@ -27,13 +27,17 @@ Ingredients:
 
 Method:
 
-    Warm the wet ingredients in a saucepan until the butter is melted
+    Add the water, butter and sugar to a saucepan and heat until melted.
 
-    Add the dry ingredients (except the egg) to a stand mixer with a dough hook and mix on low whilst slowly adding the wet ingredients
+    Add cold milk to the saucepan and check the resulting temperature is 30 to 35C and add the yeast
 
-    Add the egg and mix on medium for 8-10 minutes
+    Add the remaining dry ingredients (except the egg) to a stand mixer with a dough hook and mix on low whilst slowly adding the wet ingredients
 
-    split the dough in to 12 for small burger buns, 8 for large burger buns or 4 for large subs
+    Add the egg and mix on medium for 3 minutes, scrape the bowl down and rest for 3 minutes.repeat the mixing and resting another two times
+
+    Cover the dough and allow to rise for 30 to 60 mins
+
+    Split the dough in to 12 for small burger buns, 8 for large burger buns or 4 for very large subs
 
     leave to rise in a warm place for 30-40 minutes covered with a tea towel
 
