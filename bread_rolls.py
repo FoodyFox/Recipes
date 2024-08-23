@@ -19,7 +19,7 @@ Ingredients:
         500g Flour (Bread or Plain)
         10g Sugar
         10g Yeast
-        5g Salt
+        10g Salt
         1 Egg
 
     Optional sesame/poppy seeds for topping
