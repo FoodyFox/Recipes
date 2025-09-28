@@ -22,8 +22,9 @@ Ingredients:
         10g Salt
         1 Egg
 
-    Optional sesame/poppy seeds for topping
-    Extra milk and butter for brushing
+    Optional:
+        Sesame/poppy seeds for topping
+        Extra milk and butter for brushing
 
 Method:
 
