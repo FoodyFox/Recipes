@@ -1,4 +1,4 @@
-def recipe_name()
+def chinese_spring_onion_pakcakes()
 
 '''
 
@@ -47,3 +47,5 @@ Method:
     Pan fry in more lard until crispy and brown on both sides
 
 '''
+
+Return 0
